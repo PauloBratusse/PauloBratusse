@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Paulo Bratusse</h1>
 <h3 align="center">um curisoso Fisico migrando para dados</h3>
 
-- 🌱 Atualmente aprendendo **SQL, Power BI, Machine Learning e AWS**
+- 🌱 Atualmente Aperfeiçoando minhas Habiliades em **SQL, Power BI e Machine Learning**
 
 - 📫 Me contacte em **paulobratusseneto@gmail.com**
 
